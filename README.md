@@ -24,15 +24,9 @@
 
 ## 感谢
 
-在此处感谢本项目的原项目还有原项目的朋友们：
+在此处感谢本项目的原项目：
 
-  - [原项目地址](https://github.com/moesoha/debian-media-box)   
-   - 原项目的朋友们：
-- - 某不愿透露姓名的辣鸡嫖虫 (包装盒初稿)
-  - dfceaef (包装盒文案)
-  - Soha (包装盒与说明书的终稿)
-  - YukariChiba (说明书创意与文案, [#3](https://github.com/moesoha/debian-media-box/issues/3))
-  - IcesandSora (包装盒创意)
+  - [原项目地址](https://github.com/moesoha/debian-media-box)
 
 ## LICENSE
 
